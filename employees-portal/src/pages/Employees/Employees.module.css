@@ -1,0 +1,7 @@
+.container-search {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items: flex-end;
+  margin-bottom: 1.5rem;
+}

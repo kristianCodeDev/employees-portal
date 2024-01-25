@@ -1,0 +1,218 @@
+[
+  {
+    "employeeId": 1,
+    "firstName": "John",
+    "lastName": "Smith",
+    "position": "Developer",
+    "experience": "2",
+    "skills": ["C#", "React"],
+    "customerSatisfaction": "80"
+  },
+  {
+    "employeeId": 2,
+    "firstName": "Richard",
+    "lastName": "Smith",
+    "position": "Developer",
+    "experience": "1",
+    "skills": ["C#", "React", "Preact"],
+    "customerSatisfaction": "60"
+  },
+  {
+    "employeeId": 3,
+    "firstName": "Jack",
+    "lastName": "Ford",
+    "position": "QA",
+    "experience": "5",
+    "skills": ["React"],
+    "customerSatisfaction": "56"
+  },
+  {
+    "employeeId": 4,
+    "firstName": "Harisson",
+    "lastName": "Ford",
+    "position": "Developer",
+    "experience": "2",
+    "skills": ["C#", "React"],
+    "customerSatisfaction": "87"
+  },
+  {
+    "employeeId": 5,
+    "firstName": "Jake",
+    "lastName": "Bennet",
+    "position": "Developer",
+    "experience": "1",
+    "skills": ["C#", "React", "Preact"],
+    "customerSatisfaction": "54"
+  },
+  {
+    "employeeId": 6,
+    "firstName": "Jeniffer",
+    "lastName": "Love",
+    "position": "QA",
+    "experience": "3",
+    "skills": ["React", "Vue"],
+    "customerSatisfaction": "32"
+  },
+  {
+    "employeeId": 7,
+    "firstName": "Nina",
+    "lastName": "Hue",
+    "position": "Developer",
+    "experience": "2",
+    "skills": ["C#", "React", "Vue"],
+    "customerSatisfaction": "75"
+  },
+  {
+    "employeeId": 8,
+    "firstName": "Bevarly",
+    "lastName": "Smith",
+    "position": "Developer",
+    "experience": "1",
+    "skills": ["C#", "React", "Preact"],
+    "customerSatisfaction": "35"
+  },
+  {
+    "employeeId": 0,
+    "firstName": "Jack",
+    "lastName": "Smith",
+    "position": "QA",
+    "experience": "5",
+    "skills": ["React"],
+    "customerSatisfaction": "64"
+  },
+  {
+    "employeeId": 9,
+    "firstName": "Abbigail",
+    "lastName": "Smith",
+    "position": "Developer",
+    "experience": "2",
+    "skills": ["C#", "React"],
+    "customerSatisfaction": "35"
+  },
+  {
+    "employeeId": 10,
+    "firstName": "Abie",
+    "lastName": "Smith",
+    "position": "BA",
+    "experience": "1",
+    "skills": ["C#", "React", "Preact"],
+    "customerSatisfaction": "68"
+  },
+  {
+    "employeeId": 11,
+    "firstName": "Daisey",
+    "lastName": "Smith",
+    "position": "QA",
+    "experience": "6",
+    "skills": ["React"],
+    "customerSatisfaction": "53"
+  },
+  {
+    "employeeId": 12,
+    "firstName": "Dane",
+    "lastName": "Smith",
+    "position": "Developer",
+    "experience": "2",
+    "skills": ["C#", "React", "Java"],
+    "customerSatisfaction": "25"
+  },
+  {
+    "employeeId": 13,
+    "firstName": "Danette",
+    "lastName": "Smith",
+    "position": "BA",
+    "experience": "1",
+    "skills": ["C#", "React", "Preact"],
+    "customerSatisfaction": "60"
+  },
+  {
+    "employeeId": 14,
+    "firstName": "Danelle",
+    "lastName": "Smith",
+    "position": "QA",
+    "experience": "4",
+    "skills": ["React"],
+    "customerSatisfaction": "27"
+  },
+  {
+    "employeeId": 15,
+    "firstName": "Dannielle",
+    "lastName": "Smith",
+    "position": "BA",
+    "experience": "5",
+    "skills": ["C#", "React", "Angular"],
+    "customerSatisfaction": "75"
+  },
+  {
+    "employeeId": 16,
+    "firstName": "Earley",
+    "lastName": "Smith",
+    "position": "Developer",
+    "experience": "1",
+    "skills": ["C#", "React", "Preact"],
+    "customerSatisfaction": "45"
+  },
+  {
+    "employeeId": 17,
+    "firstName": "Earline",
+    "lastName": "Smith",
+    "position": "QA",
+    "experience": "5",
+    "skills": ["React"],
+    "customerSatisfaction": "83"
+  },
+  {
+    "employeeId": 18,
+    "firstName": "Easton",
+    "lastName": "Smith",
+    "position": "BA",
+    "experience": "2",
+    "skills": ["C#", "React", "Java"],
+    "customerSatisfaction": "22"
+  },
+  {
+    "employeeId": 19,
+    "firstName": "Gaines",
+    "lastName": "Smith",
+    "position": "Developer",
+    "experience": "1",
+    "skills": ["C#", "React", "Preact"],
+    "customerSatisfaction": "60"
+  },
+  {
+    "employeeId": 20,
+    "firstName": "Galen",
+    "lastName": "Hardy",
+    "position": "QA",
+    "experience": "5",
+    "skills": ["React", "React Native"],
+    "customerSatisfaction": "75"
+  },
+  {
+    "employeeId": 21,
+    "firstName": "Gardner",
+    "lastName": "Smith",
+    "position": "BA",
+    "experience": "2",
+    "skills": ["C#", "React"],
+    "customerSatisfaction": "87"
+  },
+  {
+    "employeeId": 22,
+    "firstName": "Hailey",
+    "lastName": "Harden",
+    "position": "QA",
+    "experience": "5",
+    "skills": ["C#", "React", "Preact"],
+    "customerSatisfaction": "60"
+  },
+  {
+    "employeeId": 23,
+    "firstName": "Danelle",
+    "lastName": "Haley",
+    "position": "QA",
+    "experience": "3",
+    "skills": ["React"],
+    "customerSatisfaction": "83"
+  }
+]

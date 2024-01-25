@@ -1,0 +1,19 @@
+.container-items {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  gap: 1rem;
+}
+
+.container-center {
+  display: flex;
+  justify-content: center;
+}
+
+.mt-3 {
+  margin-top: 3rem;
+}
+
+.ml-2 {
+  margin-left: 2rem;
+}
